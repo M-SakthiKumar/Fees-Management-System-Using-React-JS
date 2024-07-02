@@ -1,0 +1,20 @@
+{
+  "Student_Details": [
+    {
+      "id": "101",
+      "name": "Sakthi Kumar M",
+      "Course": "Front-end-developer",
+      "courseFees": "25000",
+      "pendingFees": "Nil",
+      "status": "complete"
+    },
+    {
+      "id": "102",
+      "name": "Mohan",
+      "Course": "Back-end-development",
+      "courseFees": "30000",
+      "pendingFees": "nil",
+      "status": "incomplete"
+    }
+  ]
+}
